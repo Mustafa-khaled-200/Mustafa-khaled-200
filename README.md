@@ -1,6 +1,6 @@
 ###  Hi, I'm Mostafa 👩🏾‍💻
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+web+developer)](https://git.io/typing-svg)
-![[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+web+developer)](https://git.io/typing-svg)](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)
+![[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+web+developer)](https://git.io/typing-svg)](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)](https://camo.githubusercontent.com/19cfd066a05906ee1de898327cc63b5bb84c6bd735182772630b8f75d93e581f/68747470733a2f2f746563686d616b6572732e746563682f77702d636f6e74656e742f7468656d65732f546563684d616b6572732d57502f6173736574732f696d672f6865726f2d696d672e706e67)
 
 
 Languages and Tools :

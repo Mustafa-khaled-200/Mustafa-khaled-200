@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Website design and development**
 
-- 📫 How to reach me **mustaf2005fox@gmail.com**
-
 - ⚡ Fun fact **teamwork ✌️**
 
 <h3 align="left">Connect with me:</h3>

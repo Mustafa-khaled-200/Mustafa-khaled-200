@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/Mustafa1382001" target="blank"><img src="https://img.shields.io/twitter/follow/Mustafa1382001?logo=twitter&style=for-the-badge" alt="Mustafa1382001" /></a> </p>
 
-<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="450" /> </p>
+
 
 - 🔭 I’m currently working at freelancer
   
